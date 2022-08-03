@@ -2,8 +2,8 @@
 C++
 1. cout is command for "console output"
 2. cin is command for "console input"
-3. << is the insertion operator
-4. >> is the extraction operator
+3. "<<" is the insertion operator
+4. ">>" is the extraction operator
 5. Declare an integer variable like this: int age;
 6. Get user input for that variable like this: cin>>age;
 7. if statement format:
