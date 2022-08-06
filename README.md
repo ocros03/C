@@ -7,9 +7,9 @@ C++
 5. Declare an integer variable like this: int age;
 6. Get user input for that variable like this: cin>>age;
 7. if statement format:
-  if(variable=condition)
+code(if(variable=condition)
     what to do;
   else
-    what else to do;
+    what else to do;)
     
 WRITE A PROGRAM THAT ASKS A USER FOR HIS/HER AGE AND REPORTS IF THEY ARE OLD ENOUGH TO DRINK BEER
